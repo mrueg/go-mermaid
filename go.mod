@@ -3,14 +3,14 @@ module github.com/mrueg/go-mermaid
 go 1.24
 
 require (
-	github.com/dreampuf/mermaid.go v0.0.30
+	github.com/dreampuf/mermaid.go v0.0.32
 	github.com/rs/zerolog v1.34.0
 	github.com/urfave/cli/v3 v3.4.1
 )
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20250724212937-08a3db8b4327 // indirect
-	github.com/chromedp/chromedp v0.14.0 // indirect
+	github.com/chromedp/cdproto v0.0.0-20250803210736-d308e07a266d // indirect
+	github.com/chromedp/chromedp v0.14.1 // indirect
 	github.com/chromedp/sysutil v1.1.0 // indirect
 	github.com/go-json-experiment/json v0.0.0-20250725192818-e39067aee2d2 // indirect
 	github.com/gobwas/httphead v0.1.0 // indirect
