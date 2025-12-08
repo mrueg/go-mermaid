@@ -3,7 +3,7 @@ module github.com/mrueg/go-mermaid
 go 1.24
 
 require (
-	github.com/dreampuf/mermaid.go v0.0.38
+	github.com/dreampuf/mermaid.go v0.0.39
 	github.com/rs/zerolog v1.34.0
 	github.com/urfave/cli/v3 v3.6.1
 )

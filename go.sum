@@ -7,8 +7,8 @@ github.com/chromedp/sysutil v1.1.0/go.mod h1:WiThHUdltqCNKGc4gaU50XgYjwjYIhKWoHG
 github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/dreampuf/mermaid.go v0.0.38 h1:tYzlJ3GiyIJ1QCw6NMJPE1P3iUXqORiogkTWjbobLgs=
-github.com/dreampuf/mermaid.go v0.0.38/go.mod h1:xBmQWWnPFQl7HIfEz+KnZ+BpXPJl9qXe9aISIPJGsAM=
+github.com/dreampuf/mermaid.go v0.0.39 h1:K7R+FaAOxKd32/yic9SVz0u9bedS5nV/6nUgGnKdJuY=
+github.com/dreampuf/mermaid.go v0.0.39/go.mod h1:xBmQWWnPFQl7HIfEz+KnZ+BpXPJl9qXe9aISIPJGsAM=
 github.com/go-json-experiment/json v0.0.0-20250725192818-e39067aee2d2 h1:iizUGZ9pEquQS5jTGkh4AqeeHCMbfbjeb0zMt0aEFzs=
 github.com/go-json-experiment/json v0.0.0-20250725192818-e39067aee2d2/go.mod h1:TiCD2a1pcmjd7YnhGH0f/zKNcCD06B029pHhzV23c2M=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
