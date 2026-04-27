@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/dreampuf/mermaid.go v0.0.39
-	github.com/rs/zerolog v1.35.0
+	github.com/rs/zerolog v1.35.1
 	github.com/urfave/cli/v3 v3.8.0
 )
 
