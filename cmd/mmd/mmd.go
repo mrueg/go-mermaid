@@ -83,7 +83,10 @@ func Run(cmd *cli.Command) error {
 	}
 	zerolog.SetGlobalLevel(level)
 
-	re, _ := mermaid_go.NewRenderEngine(context.TODO())
+	re, err := mermaid_go.NewRenderEngine(context.TODO(), nil)
+	if err != nil {
+		return err
+	}
 	defer re.Cancel()
 
 	file := cmd.String("input")
