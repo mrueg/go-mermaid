@@ -5,7 +5,7 @@ go 1.27
 require (
 	github.com/dreampuf/mermaid.go v0.5.0
 	github.com/rs/zerolog v1.35.1
-	github.com/urfave/cli/v3 v3.12.0
+	github.com/urfave/cli/v3 v3.14.0
 )
 
 require (
