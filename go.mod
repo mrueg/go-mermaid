@@ -3,14 +3,15 @@ module github.com/mrueg/go-mermaid
 go 1.27
 
 require (
-	github.com/dreampuf/mermaid.go v0.5.0
+	github.com/dreampuf/mermaid.go v0.5.2
 	github.com/rs/zerolog v1.35.1
 	github.com/urfave/cli/v3 v3.14.0
 )
 
 require (
-	github.com/chromedp/cdproto v0.157.4 // indirect
-	github.com/chromedp/chromedp v0.18.0 // indirect
+	github.com/chromedp/cdproto v0.158.3 // indirect
+	github.com/chromedp/chromedp v0.21.0 // indirect
+	github.com/go-json-experiment/json v0.0.0-20260213210345-44df1a37e875 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	golang.org/x/sys v0.47.0 // indirect
