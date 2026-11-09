@@ -1,9 +1,11 @@
-github.com/chromedp/cdproto v0.157.4 h1:UleIu3RHfaQmhE0ri9GpCbHrGpe0HgV55HVhzhPWglI=
-github.com/chromedp/cdproto v0.157.4/go.mod h1:scNPhJ/A4T8BVkyR5k2Uocvoju3iBRZS4cg3uMlxuMk=
-github.com/chromedp/chromedp v0.18.0 h1:JulKLW1m2WWM4Lm2rtWNPyasQzl/bZzMtHywPGsOj3c=
-github.com/chromedp/chromedp v0.18.0/go.mod h1:4Rs9XtapAMgXxg0s1PpixyQHf37kdnSdu2ov5G4FsZ0=
-github.com/dreampuf/mermaid.go v0.5.0 h1:xZsFOqXQb6qMTpHNBiXigbzFVvQKRDflloW3LoEDWMQ=
-github.com/dreampuf/mermaid.go v0.5.0/go.mod h1:JNwKF9RxfhiPa4vR5vqY4e53rolN9+wkwPXqd2tlKaQ=
+github.com/chromedp/cdproto v0.159.1 h1:k0ACb4pnDcuz30dgr1kdou0t0U+VW/4HDQm17mOdXxo=
+github.com/chromedp/cdproto v0.159.1/go.mod h1:h68JaIuFr9o3yiayxEYhBdvaxgYO3shDrPSYhNlyfu0=
+github.com/chromedp/chromedp v0.22.1 h1:F/oRceu42iAJsPo3EBzbDWe7xDduOdIs11W3YjXm3iY=
+github.com/chromedp/chromedp v0.22.1/go.mod h1:hJcPsoPrgxu4ulIXhO1WmtKjosCD8jbZh0+TeVFsod8=
+github.com/dreampuf/mermaid.go v0.7.0 h1:VIivFfbVHtEo3MZ2bdrOoiSZrldBL7L10FRiVjJYNRw=
+github.com/dreampuf/mermaid.go v0.7.0/go.mod h1:/6iPHPA28YUUd5XinbekqptxHUnl0AFiEpndiKwnu8w=
+github.com/go-json-experiment/json v0.0.0-20260213210345-44df1a37e875 h1:XGPtjxqp0FS8jj1Z7QGcSOSgyq1fUPjNyJXvi3KfI4A=
+github.com/go-json-experiment/json v0.0.0-20260213210345-44df1a37e875/go.mod h1:uNVvRXArCGbZ508SxYYTC5v1JWoz2voff5pm25jU1Ok=
 github.com/mattn/go-colorable v0.1.14 h1:9A9LHSqF/7dyVVX6g0U9cwm9pG3kP9gSzcuIPHPsaIE=
 github.com/mattn/go-colorable v0.1.14/go.mod h1:6LmQG8QLFO4G5z1gPvYEzlUgJ2wF+stgPZH1UqBm1s8=
 github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=
